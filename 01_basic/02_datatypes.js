@@ -14,3 +14,15 @@
 
 console.log(typeof null);   // returns datatype as object !! 
 console.log(typeof undefined);
+
+
+
+/*
+  Datatypes -> 7
+  
+  primitive --> String, Number, null, Symbol, Boolean, undefined, BigInt
+
+  reference (non-primitive) --> Arrays, Objects, Functions
+
+  javascript --> dynamically typed language --> as datatypes are assigned during runtime.
+ */
