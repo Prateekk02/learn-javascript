@@ -26,3 +26,5 @@ console.log(typeof undefined);
 
   javascript --> dynamically typed language --> as datatypes are assigned during runtime.
  */
+
+  // Stack(Primitive) , Heap(Non-primitive)
