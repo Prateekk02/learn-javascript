@@ -11,7 +11,7 @@ console.log("TimeString: " + myDate.toTimeString())
 console.log("LocaleTimeString: " + myDate.toLocaleTimeString())
 
 
-let createdDate = new Date(2023, 0 , 23)   // month starts with 0 in javascript.1 
+let createdDate =   new Date(2023, 0 , 23)   // month starts with 0 in javascript.1 
 console.log(createdDate.toString()) 
 
 // new format to declare date
